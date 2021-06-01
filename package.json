@@ -1,0 +1,19 @@
+{
+  "name": "json_server_meal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanbritt/json_server_meal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanbritt/json_server_meal/issues"
+  },
+  "homepage": "https://github.com/vanbritt/json_server_meal#readme"
+}

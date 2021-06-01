@@ -48,30 +48,7 @@
           "image": "https://www.themealdb.com/images/media/meals/1bsv1q1560459826.jpg",
           "id": "52971"
         },
-        {
-          "category": "fat_free",
-          "name": "Kidney Bean Curry",
-          "image": "https://www.themealdb.com/images/media/meals/sywrsu1511463066.jpg",
-          "id": "52868"
-        },
-        {
-          "category": "fat_free",
-          "name": "Koshari",
-          "image": "https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg",
-          "id": "53027"
-        },
-        {
-          "category": "fat_free",
-          "name": "Leblebi Soup",
-          "image": "https://www.themealdb.com/images/media/meals/x2fw9e1560460636.jpg",
-          "id": "52973"
-        },
-        {
-          "category": "fat_free",
-          "name": "Matar Paneer",
-          "image": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
-          "id": "52865"
-        },
+  
         {
           "category": "fat_free",
           "name": "Moroccan Carrot Soup",
